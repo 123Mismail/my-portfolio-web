@@ -1,4 +1,4 @@
-"use client"
+ "use client"
 import React from 'react'
  
 import Image from 'next/image'
@@ -37,7 +37,7 @@ const HeroSection = () => {
       <Image src={"/assets/pictures/pic1.jpeg"} height={360} width={360} alt='picture' className='rounded-tr-3xl rounded-bl-3xl'>
 
       </Image>
-      {/* <Animate3D /> */}
+       
     </div>
   </div>
 </section>
